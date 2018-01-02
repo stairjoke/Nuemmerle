@@ -32,6 +32,7 @@ function demoMode(enable){
 }
 
 function initButtons(){
+  alert("click on one of the numbers in the row at the top to make the computer play");
   //#b-hook: Button Template: <button data-left="6">1</button>
   var hook = document.querySelector("#b-hook");
 
