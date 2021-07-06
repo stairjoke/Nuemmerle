@@ -15,4 +15,4 @@ When all numbers have been shreaked, add up the value of your stacks, highest po
 - Keep track of the availability of numbers, so you don't block access to a number that won't be shreaked again.
 
 # This Git
-This git contains a first attempt at a solver, implemented in JS as a website. Use it to get a feel for how the game works: https://wmassag.github.io/Nuemmerle/
+This git contains a first attempt at a solver, implemented in JS as a website. Use it to get a feel for how the game works: https://stairjoke.github.io/Nuemmerle/
